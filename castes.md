@@ -1,5 +1,8 @@
 #Full Moon
 
+ * Strength and Stamina
+ * Starts with beastman knack
+
 #Blood Moon
 
  * Stamina and Intelligence
