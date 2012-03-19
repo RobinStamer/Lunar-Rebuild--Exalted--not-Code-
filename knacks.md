@@ -21,16 +21,9 @@ temporary willpower and meditating for an hour
 **Duration:** One scene<br />
 **Prerequisites:** None
 
-The Decievers are well aquainted with small, unnoticable shapes, but sometimes
-the alert will target them anyways.
-Once activated, for the rest of the scene
-the Deciever is clearly an ordinary creature that belongs there, and that it
-is best to leave him alone.
-Make a (Wits+Stealth) roll, apply an external penalty equal to the size difference
-between the current form and a cat (a child would be two sizes, an adult human three),
-anyone with a Dodge
-MDV less than the successes is unwilling to do anything about the Deciever's
-small form.  
+The Decievers are well aquainted with small, unnoticable shapes, but sometimes the alert will target them anyways.
+Once activated, for the rest of the scene the Deciever is clearly an ordinary creature that belongs there, and that it is best to leave him alone.
+Make a (Wits+Stealth) roll, apply an external penalty equal to the size difference between the current form and a cat (a child would be two sizes, an adult human three), anyone with a Dodge MDV less than the successes is unwilling to do anything about the Deciever's small form.  
 This is an unnatural compulsion effect that costs 1wp to resist.
 Entering a form larger than the original shape ends this charm permaturely.
 
@@ -88,3 +81,56 @@ FLUFF.  Spend 1 mote per Attribute dot, increase the forms Attribute up to
 the Lunar's human form.
 
 *Merged:* Intelligence
+
+##Green Sun Child
+
+**Cost:** --; **Mins:** Strength 4, Essence 2; **Type:** Perm<br />
+**Keywords:** Merged, Native, Shapeshifting<br />
+**Duration:** Perm<br />
+**Prerequisites:** None
+
+FLUFF.  The souls of the Primordials become valid targets of the Sacred Hunt.
+The target must have an Essence score lower than the Lunar's.
+Charms are not aquired, other supernatural abilities are.
+
+*Merged:* Wits
+
+##Heart-Theft of the Behemoth
+
+**Cost:** --; **Mins:** Strength 4, Essence 2; **Type:** Perm<br />
+**Keywords:** Merged, Native, Shapeshifting<br />
+**Duration:** Perm<br />
+**Prerequisites:** None
+
+FLUFF.  Essence infused beasts, such as the Behemoths of the Primordials, become valid targets for the Sacred Hunt.
+Hekatonkhires may also be targeted when the Lunar also knows Ash and Tears Banquet.
+The target must have an Essence score lower than the Lunar's.
+Charms are not aquired, other supernatural abilities are.
+
+*Merged:* Stamina
+
+##Hearth-and-Flame Shell
+
+**Cost:** --; **Mins:** Perception 3, Essence 2; **Type:** Perm<br />
+**Keywords:** Merged, Native, Shapeshifting<br />
+**Duration:** Perm<br />
+**Prerequisites:** None
+
+FLUFF.  Fire-aspected Spirits and other representations of the element of Fire become valid targets for the Sacred Hunt.
+The target must have an Essence score lower than the Lunar's.
+Charms are not aquired, other supernatural abilities are.
+
+*Merged:* Wits
+
+##Laurels-and-Ivy Technique
+
+**Cost:** --; **Mins:** Perception 3, Essence 2; **Type:** Perm<br />
+**Keywords:** Merged, Native, Shapeshifting<br />
+**Duration:** Perm<br />
+**Prerequisites:** None
+
+FLUFF.  Wood-aspected Spirits and other representations of the element of Wood become valid targets for the Sacred Hunt.
+The target must have an Essence score lower than the Lunar's.
+Charms are not aquired, other supernatural abilities are.
+
+*Merged:* Wits
