@@ -97,7 +97,7 @@ Charms are not aquired, other supernatural abilities are.
 
 ##Heart-Theft of the Behemoth
 
-**Cost:** --; **Mins:** Strength 4, Essence 2; **Type:** Perm<br />
+**Cost:** --; **Mins:** Strength 3, Essence 2; **Type:** Perm<br />
 **Keywords:** Merged, Native, Shapeshifting<br />
 **Duration:** Perm<br />
 **Prerequisites:** None
