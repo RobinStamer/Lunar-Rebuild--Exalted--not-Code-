@@ -12,13 +12,14 @@ Eventually they discovered the EXTREMELY boring solution of killing fae, and sta
 
  * Whenever a Lunar actively goes against their Solar mate, without their consent, the Hunter gets a point of Limit.  Up to a maximum of two per scene.
  * SOMETHING SOMETHING DEATHSTAR SOMETHING SOMETHING DARK SIDE
- * Each hour spent in the Deep Wyld causes the Lunar to gain a point of Limit.
- * Each minute spent in Pure Chaos causes the Lunar to gain a point of Limit.
+ * Each full day spent in the Deep Wyld causes the Lunar to gain a point of Limit.
+ * Each hour spent in Pure Chaos causes the Lunar to gain a point of Limit.
 
 ##Limit Venting
 
  * Whenever a Lunar actively assists her Solar mate, the Lunar vents a point of Limit.  Up to twice a scene.
- * Whenever a Lunar exerts herself in a challenge against a Fae, who was then anihilated by the Lunar, the Lunar loses a point of Limit.
+ * Whenever a Lunar exerts herself in a challenge against a Fae, or anihilates a fae of Essence greater or equal to the Lunar's, the Lunar loses a point of Limit.  This feat must be accomplished alone (Familliars don't count towards this resitriction).
+ * Ensuring a threat to Creation is no longer a threat EXPLAIN
 
 ##Limit Breaks
 
