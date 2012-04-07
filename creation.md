@@ -25,7 +25,7 @@ No longer confined by such a simple thing as a singular physical body in which t
 
 ##Character Generation
 
- * 8/6/4 Attribute spread
+ * 9/7/4 Attribute spread
  * 28 Ability dots, maximum of 3 before Bonus Points
  * 4 Specialty dots
  * 5 Virtue dots, none can be higher than 4 without Bonus Points
@@ -37,8 +37,23 @@ No longer confined by such a simple thing as a singular physical body in which t
  * 1 Favored Ability, Survival is marked as a Favored Ability
  * 9 Charms
  * 7 Backgrounds, none can be higher than 3 before Bonus Points
- * Personal Essence: E + (2 * WP)
+ * Personal Essence: E + (2 * WP) + Highest Virtue
  * Peripheral Essence: 5 * E + (2 * WP) + (5 * Highest Virtue)
+ * A character may purchase Moonsilver Tatoos once, this is without cost
+
+##Available Backgrounds
+
+ * Allies
+ * Artifact
+ * Backing
+ * Contacts
+ * Cult
+ * Familliar
+ * Followers
+ * Influence
+ * Manse
+ * Mentor
+ * Resources
 
 ##Bonus Points
 
