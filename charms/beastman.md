@@ -13,7 +13,7 @@ The hunter may freely "forget" these new forms as a Reflexive action, she may al
 ##Deadly Beastman Transformation
 
 **Cost:** -- (+2m); **Mins:** Stamina 3, Essence 2; **Type:** Perm<br />
-**Keywords:** Shaping, Native<br />
+**Keywords:** Shape, Shaping<br />
 **Duration:** Perm<br />
 **Prerequisites:** Wyld Tainted Masque
 
@@ -28,7 +28,7 @@ While using the form they increase their base movement by one yard per tick and 
 ##Perfected Hybrid Interaction
 
 **Cost:** --; **Mins:** Wits 3, Essence 2; **Type:** Perm<br />
-**Keywords:** Shape, Native<br />
+**Keywords:** Shape<br />
 **Duration:** Perm<br />
 **Prerequisites:** Wyld Tainted Masque
 
@@ -98,7 +98,7 @@ FLUFF FLUFF.
 At the moment the Lunar realizes she is pregnant she may commit 15 motes, at childbirth she may reduce it to 10 motes.
 During any point in the child's life they would qualift for a Lunar Exaltation the mother becomes psychically informed and may reflexively release the commitment to bless the child in Luna's stead, if the commitment was released before this the child gains no benefits but may still Exalt normally.
 The Child is now a half-caste, is considered to have every Shape charm the mother and father have, but does not benefit from them, as they can not perform the sacred hunt.
-They may learn Shaping Charms, but not native Charms and are considered to have two forms: the form they would be born with without Fish or Fowl Gestation and the one they would have if one of the parents used it.
+They may learn Shaping Charms, but not Native or Shape Charms and are considered to have two forms: the form they would be born with without Fish or Fowl Gestation and the one they would have if one of the parents used it.
 For a male Lunar to provide this benefit to his Children he must remain within his Essence miles of the womb.
 
 ##Beast-Lords of the Blessed Isle
@@ -110,6 +110,7 @@ For a male Lunar to provide this benefit to his Children he must remain within h
 
 FLUFF FLUFF.
 Warforms become valid gifts for children, they only benefit from the increased Attributes and mutations.
+The extra Attribute dots are applied before Attribute dots for character generation are applied, and do not increase the cap.
 
 ##Tiger and Seahorse Dynasty
 
