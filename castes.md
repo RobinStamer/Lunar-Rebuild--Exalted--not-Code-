@@ -1,11 +1,11 @@
 #Full Moon
 
- * Strength and Stamina
+ * Strength, Stamina, Charisma and Appearance
  * Starts with beastman knack
 
 #Blood Moon
 
- * Stamina and Intelligence
+ * Strength, Stamina, Intelligence and Wits
  * Can hear an endless concaphony of wispers when totemic or dreaming
  * Starts with ghost knack
  * Did not show up until the Primordial War killed a few Primordials
@@ -16,13 +16,13 @@ out all Exalted, except Abyssals and Green Sun Princes, as a side-effect.
 
 #Changing Moon
 
- * Perception and Wits
- * Starts with an element knack
+ * Dexterity, Appearance, Perception and Wits
+ * Starts with the deamon knack
  * A silver light in constant flux, occasionally displaying phases of the moon
 
 #Crescent Moon
 
- * Manipulation and Wits
+ * Strength, Manipulation, Appearance and Wits
  * Starts with Fae knack
  * Absolutely trustworthy, at no point do they out-right lie, cheat, steal
 always giving full truths, and never hiding behind a grin
@@ -33,18 +33,12 @@ selectively
 
 #New Moon
 
- * Charisma and Perception
- * Celestial
+ * Stamina, Charisma, Perception and Intelligence
+ * Elementals
 
-#Blue Moon
+#Lost Moon
 
- * Stength and Wits
- * Starts with Demon knack
- * Must be able to endure the hardships of life in the Demon city
- 
-#Clockwork Moon
-
- * Dexterity and Intelligence
+ * Dexterity, Charisma, Perception and Intelligence
  * Starts with the automaton knack
  * When they dream they meet the Maker and his Shadow, the Maker wishes to
 wake up to create new things, the Shadow wishes to wake up to destroy them all
