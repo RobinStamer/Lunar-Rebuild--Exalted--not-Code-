@@ -1,17 +1,3 @@
-#Shapeshifting Rules
-
- * Complete form changes are 4m as a baseline
- * +1m for realms of existance other than Creation
- * -1m for Bordermarches, -2m for Middlemarches, -3m for Deep Wyld, -4m for Pure Chaos
- * Tell starts at 25 successes, drops by 2 successes for each point of Limit
- * Default valid: human, animal and those between them without being supernatural.
-Must be able to physically kill the target and devour the Heart's Blood
- * No more true forms, the first animal form is brutally hunted immediately
-after Exaltation
- * Those that have seen the Tell before ignore two successes
- * Tell is influenced by the favored form, which can be changed by spending a point of
-temporary willpower and meditating for an hour
-
 #Shapeshifting Charms
 
 ##Humble Mouse Shape
